@@ -1,7 +1,6 @@
 ## Hello, CommuGITy!
 My name is Fionah.<br>
-I'm in college right now studying IT. A degree is great and all but I need to learn by myself if I want to keep up with the rest of the world. So, I'm here to expand my education and experiences - maybe find new opportunities. The beauty of being in this field is the possibilities. I'm still in the process of finding out what I specialize in but am up for anything!
-
+I'm studying BSIT in college. A degree is great and all but I need to learn by myself if I want to keep up with the rest of the world. So, I'm here to expand my education and experiences - maybe find new opportunities. The beauty of being in this field is the possibilities. I aspire to be a backend developer!
 <!--
 **prionarie/prionarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
