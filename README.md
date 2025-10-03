@@ -1,5 +1,5 @@
 ## Hello!
-I'm currently studying for a BSIT degree in college. I need to learn by myself if I want to keep up with the rest of the world so I'm here to expand my education, experiences and opportunities. I aspire to be a backend developer. :>
+I'm currently studying for a BSIT degree in college. I need to learn by myself if I want to keep up with the rest of the world so I'm here to expand my education, experiences and opportunities. I aspire to be a backend developer/data engineer. :>
 <!--
 **prionarie/prionarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
