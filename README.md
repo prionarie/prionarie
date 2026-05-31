@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hello, I'm Fionah!
 
-<!--
-**prionarie/prionarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My vision is to develop IT solutions for environmental sustainability. My pervious projects consist of applications and data technology that helps the community. Currently, I am expanding my skills to better support my software development goals.
 
-Here are some ideas to get you started:
+📍 Philippines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙ Interests/Specializations: 
+- Data Engineering
+- Cloud Computing
+- Machine Learning
+
+## My Tech Stack
+
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (MySQL & PostgreSQL)
+- HTML, CSS & JS
+- Git (Version Control)
+- OOP (Java and C++)
+
+Currently Learning:
+- Cloud Computing: AWS, Azure & GCP
+- Snowflake
+- Databricks
+- Kubernetes
+- scikit-learn
+- PyTorch
+
+## Contact Me
+
+I am open to collaborations and freelance work.
+
+**Email:** prionarie@outlook.com
+
+---
+
+                 ((`\
+              ___ \\ '--._
+           .'`   `'    o  )   "I'm a great believer in luck, and I find
+          /    \   '. __.'    the harder I work the more I have of it." — Thomas Jefferson
+        _|    /_  \ \_\_
+       {_\______\-'\__\_\ 
