@@ -20,7 +20,9 @@ My vision is to develop IT solutions for environmental sustainability. My pervio
 - OOP (Java and C++)
 
 Currently Learning:
-- Cloud Computing: AWS, Azure & GCP
+- AWS
+- Azure
+- GCP
 - Snowflake
 - Databricks
 - Kubernetes
