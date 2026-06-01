@@ -5,8 +5,10 @@ My vision is to develop IT solutions for environmental sustainability. My pervio
 📍 Philippines
 
 ⚙ Interests/Specializations: 
+- Backend Development
 - Data Engineering
 - Cloud Computing
+- DevOps
 - Machine Learning
 
 ## My Tech Stack
