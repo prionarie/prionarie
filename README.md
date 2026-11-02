@@ -1,0 +1,33 @@
+## Hello World 🍎
+
+Bachelor of Science and Information Technology student from 🇵🇭
+
+**Current Activities:**
+- Undergoing Capstone Project ([More information here](https://github.com/prionarie/scienteach-doc))
+- Legacy modernization of early projects 🐱‍💻 ([More information here](https://github.com/prionarie/classtrack))
+
+## Tech Stack
+
+**Specializations:** System Design, Backend, DevOps
+
+**Languages:** Python, SQL, HTML, CSS, JavaScript, PHP, Java
+
+**Frameworks:** Flask, Laravel
+
+**Tools:** Git, Linux (WSL2), DBeaver, Docker
+
+**Currently Learning:** FastAPI, TypeScript, React.JS, Azure, AWS 
+
+---
+
+### Contact Me 📧
+
+- ![Email](https://img.shields.io/badge/Email-fionahdev%40outlook.com-0078D4?logo=microsoftoutlook&logoColor=white)
+- ![Discord](https://img.shields.io/badge/Discord-prionarie-5865F2?logo=discord&logoColor=white)
+
+                 ((`\
+              ___ \\ '--._
+           .'`   `'    o  )   "I'm a great believer in luck, and I find
+          /    \   '. __.'    the harder I work the more I have of it." — Thomas Jefferson
+        _|    /_  \ \_\_
+       {_\______\-'\__\_\ 
