@@ -16,7 +16,7 @@ Bachelor of Science and Information Technology student from 🇵🇭
 
 **Tools:** Git, Linux (WSL2), DBeaver, Docker
 
-**Currently Learning:** FastAPI, TypeScript, React.JS, Azure, AWS
+**Currently Learning:** FastAPI, React, TypeScript, Vite, Azure
 
 ---
 
