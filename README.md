@@ -8,15 +8,15 @@ Bachelor of Science and Information Technology student from 🇵🇭
 
 ## Tech Stack
 
-- **Specializations:** System Design, Backend, DevOps
+- **Specializations:** Backend, DevOps, System Architecture
 
-- **Languages:** Python, SQL, HTML, CSS, JavaScript, PHP, Java
+- **Languages:** Python, SQL, PHP, JavaScript, HTML5, CSS3, Java
 
 - **Frameworks:** Flask, Laravel
 
-- **Tools:** Git, Linux, DBeaver, Docker
+- **DevOps and Tools:** Git, Linux, DBeaver, Docker, PyTest, PHPUnit
 
-- **Currently Learning:** FastAPI, React, TypeScript, Vite, Azure
+- **Currently Learning:** FastAPI, React, TypeScript, Vite, Terraform
 
 ---
 
