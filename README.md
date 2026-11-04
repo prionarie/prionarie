@@ -4,7 +4,7 @@ Bachelor of Science and Information Technology student from 🇵🇭
 
 **Current Activities:**
 - Undergoing Capstone Project 📕 ( [ScienTeach](https://github.com/prionarie/scienteach-doc) )
-- Legacy modernization of early projects 🐱‍💻 ( [MathQuest](https://github.com/prionarie/mathquest) and [ClassTrack](https://github.com/prionarie/classtrack) )
+- Containerization and modernization of early projects 🐱‍💻 ( [MathQuest](https://github.com/prionarie/mathquest) and [ClassTrack](https://github.com/prionarie/classtrack) )
 
 ## Tech Stack
 
