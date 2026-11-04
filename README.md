@@ -1,20 +1,20 @@
 ## Hello World 🍎🐇
 
-Bachelor of Science and Information Technology student from 🇵🇭
+I'm a Bachelor of Science and Information Technology student and amateur software developer from the Philippines. 🇵🇭
+
+**Specializations:** Backend, DevOps, System Architecture
 
 **Current Activities:**
-- Undergoing Capstone Project 📕 ( [ScienTeach](https://github.com/prionarie/scienteach-doc) )
-- Containerization and modernization of early projects 🐱‍💻 ( [MathQuest](https://github.com/prionarie/mathquest) and [ClassTrack](https://github.com/prionarie/classtrack) )
+- Undergoing Capstone Project 📕 (See [ScienTeach](https://github.com/prionarie/scienteach-doc) )
+- Containerization and modernization of early projects 🐱‍💻 (See [MathQuest](https://github.com/prionarie/mathquest) and [ClassTrack](https://github.com/prionarie/classtrack) )
 
 ## Tech Stack
-
-- **Specializations:** Backend, DevOps, System Architecture
 
 - **Languages:** Python, SQL, PHP, JavaScript, HTML5, CSS3, Java
 
 - **Frameworks:** Flask, Laravel
 
-- **DevOps and Tools:** Git, Linux, DBeaver, Docker, PyTest, PHPUnit
+- **DevOps and Tools:** Linux, Git, Docker, DBeaver, Playwright
 
 - **Currently Learning:** FastAPI, React, TypeScript, Vite, Terraform
 
