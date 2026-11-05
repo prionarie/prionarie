@@ -10,11 +10,11 @@ I'm a Bachelor of Science and Information Technology student and amateur softwar
 
 ## Tech Stack
 
-- **Languages:** Python, SQL, PHP, JavaScript, HTML5, CSS3, Java
+- **Languages:** Python, SQL, PHP, Java, JavaScript, HTML, CSS
 
 - **Frameworks:** Flask, Laravel
 
-- **DevOps and Tools:** Linux, Git, Docker, DBeaver, Playwright
+- **DevOps and Tools:** Git, Linux, Docker, Playwright, Azure AI Foundry
 
 - **Currently Learning:** FastAPI, React, TypeScript, Vite, Terraform
 
